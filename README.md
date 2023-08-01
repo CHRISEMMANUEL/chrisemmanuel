@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/chrisemmanuel/CHRISEMMANUEL/master/assets/Chris%20Emmanuel%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Chris Emmanuel.</h2>
 
@@ -30,14 +30,16 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PowerBi](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi)
+  ![Ms Excel](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=excel)
+  ![Tableau](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=tableau)
 - 🖥 &nbsp;
  
 
 <br/>
 
 <a href="https://github.com/chrisemmanuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisemmanuel&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisemmanuel&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -46,7 +48,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chrisemmanuel4u/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-chrisemmanuel4u-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/ChrisEmmanuel4u/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ChrisEmmanuel4u_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:okhaniemmanuel7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-okhaniemmanuel7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
