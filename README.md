@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Obafemi Awolowo University.
-- 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 🌱        I’m currently learning Reactjs
+- 👯        I’m looking to collaborate on open source
+- 💬        Ask me about ... Anything
 - 🌱 &nbsp; Data Analyst.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
