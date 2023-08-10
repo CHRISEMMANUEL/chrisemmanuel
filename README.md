@@ -39,6 +39,12 @@
 <br/>
 
 <a href="https://github.com/chrisemmanuel">
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+
+</details>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisemmanuel&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisemmanuel&theme=buefy&layout=compact" />
 </a>
