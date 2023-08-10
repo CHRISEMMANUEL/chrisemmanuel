@@ -6,9 +6,14 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Obafemi Awolowo University.
-- 💼 &nbsp; Working as a Business Development Associate at Techinstant Innovation Hub.
+- 🌱 I’m currently learning Reactjs
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
 - 🌱 &nbsp; Data Analyst.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
