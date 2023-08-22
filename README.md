@@ -10,7 +10,7 @@
 - 👯        I’m looking to collaborate on open source
 - 💬        Ask me about ... Anything
 - 🌱 &nbsp; Data Analyst.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Technical writing Blog Writing as hobbies/side hustles.
 
 
 
