@@ -74,7 +74,7 @@ Exploring **LLMs, prompt engineering, and generative models** with applications 
 <p align="center">
   <a href="https://www.linkedin.com/in/chrisemmanuel4u/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-chrisemmanuel4u-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/ChrisEmmanuel4u"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ChrisEmmanuel4u-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:okhaniemmanuel7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-okhaniemmanuel7%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:chrisnuel.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chrisnuel.dev%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Chris Emmanuel](https://github.com/chrisemmanuel)
