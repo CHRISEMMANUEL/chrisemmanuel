@@ -45,14 +45,16 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 [AI-Powered Heart Disease Prediction](https://github.com/chrisemmanuel/heart-disease-prediction)  
+### 🔹 [AI-Powered Heart Disease Prediction](https://heart-disease-predictor-wwyw.onrender.com)  
 A **machine learning web app** that predicts heart disease risk using a **Random Forest model**, deployed with Flask and Render.  
 
 ### 🔹 [CSCM CodeMirror Platform](https://github.com/chrisemmanuel/cscm-codemirror)  
 A **web-based platform** for personalized programming practice with **AI-assisted grading**, built using **React + Firebase**.  
 
 ### 🔹 [Generative AI Research Playground](https://github.com/chrisemmanuel/genai-research) *(Work in Progress)*  
-Exploring **LLMs, prompt engineering, and generative models** with applications in text, code, and data augmentation.  
+Exploring **LLMs, prompt engineering, and generative models** with applications in text, code, and data augmentation. 
+
+### And many more...
 
 ---
 
