@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/chrisemmanuel/CHRISEMMANUEL/master/assets/Chris%20Emmanuel%20Singh%20Banner.png" alt="Chris Emmanuel Banner"/>
+<img src="https://github.com/CHRISEMMANUEL/chrisemmanuel/blob/main/assets/banner.png" alt="Chris Emmanuel Banner"/>
 
 # 👋 Hi, I'm Chris Emmanuel  
+
 
 ## 👨🏻‍💻 About Me  
 - 🎓 Graduate in **Computer Science & Mathematics** from **Obafemi Awolowo University**.  
