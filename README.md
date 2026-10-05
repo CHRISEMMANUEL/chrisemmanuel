@@ -72,7 +72,7 @@ Exploring **LLMs, prompt engineering, and generative models** with applications 
 ## 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chrisemmanuel4u/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-chrisemmanuel4u-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/emmanuel-okhani"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-emmanuel-okhani-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/ChrisEmmanuel4u"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ChrisEmmanuel4u-blue?style=flat-square&logo=twitter"></a>
   <a href="mailto:chrisnuel.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chrisnuel.dev%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
